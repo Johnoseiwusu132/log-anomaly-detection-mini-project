@@ -1,0 +1,10 @@
+timestamp,source_ip,event,level
+2026-09-01T10:00:00Z,192.0.2.10,login_success,info
+2026-09-01T10:00:12Z,198.51.100.23,failed_login,warning
+2026-09-01T10:00:20Z,198.51.100.23,failed_login,warning
+2026-09-01T10:00:29Z,198.51.100.23,failed_login,warning
+2026-09-01T10:01:00Z,192.0.2.10,page_view,info
+2026-09-01T10:01:10Z,192.0.2.11,application_error,error
+2026-09-01T10:01:11Z,192.0.2.11,application_error,error
+2026-09-01T10:01:12Z,192.0.2.11,application_error,error
+2026-09-01T10:02:00Z,192.0.2.12,login_success,info

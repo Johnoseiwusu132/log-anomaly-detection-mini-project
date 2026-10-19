@@ -1,0 +1,17 @@
+LOG ANOMALY ANALYSIS
+========================
+Total events: 9
+
+Event counts:
+  application_error: 3
+  failed_login: 3
+  login_success: 2
+  page_view: 1
+
+Repeated failed logins:
+  REVIEW 198.51.100.23: 3 failed login events
+
+Elevated error levels:
+  REVIEW error: 3 events
+
+These are heuristic flags for review, not proof of an attack.
